@@ -33,3 +33,5 @@ node axios-script.js
 ```
 
 6. Read docs for more info, specific API methods and more:
+
+https://docs.alchemy.com/alchemy/guides/token-api-quickstart-guide
