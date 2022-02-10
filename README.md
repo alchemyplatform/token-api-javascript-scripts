@@ -32,4 +32,4 @@ node fetch-script.js
 node axios-script.js
 ```
 
-6. Read docs for more info, specific API methods and more: 
+6. Read docs for more info, specific API methods and more:
